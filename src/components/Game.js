@@ -1,8 +1,5 @@
 import React, { Component } from 'react'
 import Board from './Board';
-import X from '../image/close.png'
-import O from '../image/ellipse.png'
-
 
 export default class Game extends Component {
     constructor(props) {
